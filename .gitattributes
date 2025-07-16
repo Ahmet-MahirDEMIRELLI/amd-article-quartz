@@ -1,2 +1,5 @@
 * text=auto eol=lf
-quartz/** linguist-vendored
+* linguist-vendored
+
+# Ama .md dosyaları dahil edilsin
+*.md linguist-vendored=false
