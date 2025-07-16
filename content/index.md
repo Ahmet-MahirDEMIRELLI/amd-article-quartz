@@ -3,14 +3,14 @@ title: Home
 draft: false
 tags:
   - homepage
-aliases: index
-
+aliases:
+  - index
 ---
 <div style="text-align: center;">
 <img src="/static/index/amd.png"/>
 </div>
 
-This repo contains my CTF write-ups.
+This repo contains my project documentations and CTF write-ups.
 
 # Social
 
@@ -23,5 +23,6 @@ This repo contains my CTF write-ups.
 
 # Table of Contents
 
+- ## [Project Documentations](/Project-Documentations)
 - ## [CTF Write-Ups](/CTF-Write-Ups)
 
