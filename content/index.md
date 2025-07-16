@@ -17,7 +17,7 @@ This repo contains my project documentations and CTF write-ups.
 - [Portfolio Site](https://ahmetmahirdemirelli.com)
 - [LinkedIn](https://www.linkedin.com/in/ahmet-mahir-demirelli/)
 - [Github](https://github.com/Ahmet-MahirDEMIRELLI)
-- <a.mahir.demirelli@gmail.com>
+- [a.mahir.demirelli@gmail.com](mailto:ahmetmahirdemirelli.com)
 
 ---
 

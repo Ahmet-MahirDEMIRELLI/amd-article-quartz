@@ -1,0 +1,5 @@
+# Quartz ve node_modules ile ilgili gereksiz dosyalar
+
+node_modules/
+public/
+quartz/.quartz-cache/
