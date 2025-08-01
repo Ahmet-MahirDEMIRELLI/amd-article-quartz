@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0970f7114875604c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72ae3677559773c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e84099ad99ae03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/CTF Write-Ups/THM/ultra_tech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ultra_tech"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec5f3e8490d2185d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d51c53da9a36c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e821f889d54861",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a42ccfeb7a656fe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37232978d63d53c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "879ceb161b6f24f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54b7771d1f3016a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56caf6e1cbf7ffcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/CTF Write-Ups/THM/athena.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for athena"
+            }
+          },
+          {
+            "id": "28fd20579e548332",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/CTF Write-Ups/THM/athena.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from athena"
+            }
+          },
+          {
+            "id": "8c18e19435cfba5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e1219a6f360ce22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/CTF Write-Ups/THM/athena.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of athena"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66e84099ad99ae03",
+  "lastOpenFiles": [
+    "quartz/static/ultra_tech/get_the_key.png",
+    "quartz/static/ultra_tech/run_pwn_kit.png",
+    "quartz/static/ultra_tech/machine.png",
+    "quartz/static/ultra_tech/our_device.png",
+    "quartz/static/ultra_tech/google_search.png",
+    "quartz/static/ultra_tech/perms.png",
+    "quartz/static/ultra_tech/try_ssh_key.png",
+    "quartz/static/ultra_tech/ssh.png",
+    "quartz/static/ultra_tech/crackstation_root.png",
+    "quartz/static/ultra_tech/cat_hashes.png",
+    "quartz/static/ultra_tech/db.png",
+    "content/index.md",
+    "content/Project Documantations/Backend/whispr.md",
+    "content/Project Documentations/Backend/whispr.md",
+    "content/Project Documentations/Frontend",
+    "content/Project Documentations/Backend",
+    "content/Project Documentations",
+    "content/CTF Write-Ups/HTB/nocturnal.md",
+    "content/CTF Write-Ups/THM/boiler_ctf.md",
+    "quartz/static/boiler_ctf/q11.png.~tmp",
+    "quartz/static/boiler_ctf/q9.png.~tmp",
+    "quartz/static/boiler_ctf/q8.png.~tmp",
+    "quartz/static/boiler_ctf/prep_cat.png.~tmp",
+    "content/CTF Write-Ups/THM/containment.md",
+    "content/CTF Write-Ups/THM/athena.md",
+    "content/CTF Write-Ups/MY CTFs/jwt_amd.md",
+    "content/CTF Write-Ups/MY CTFs/reverse_amd.md",
+    "content/CTF Write-Ups/HTB/pentest_notes.md",
+    "content/CTF Write-Ups/THM/evil_gpt_v2.md",
+    "content/CTF Write-Ups/THM/evil_gpt.md",
+    "content/CTF Write-Ups/THM/epoch.md",
+    "public/CTF-Write-Ups/THM/evil_gpt.html",
+    "public/static/evil_gpt",
+    "content/CTF Write-Ups/THM/ohsint.md"
+  ]
+}
