@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/CTF Write-Ups/SKYDAYS/recon.md",
+                "file": "content/Project Documentations/PKS/pks_frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recon"
+              "title": "pks_frontend"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "51b6304be8028fc0",
   "lastOpenFiles": [
+    "content/Project Documentations/PKS/pks_backend.md",
+    "content/Project Documentations/PKS/pks_architecture.md",
+    "content/Project Documentations/PKS/pks.md",
+    "quartz/static/pks/architecture.png",
+    "quartz/static/pks/Unconfirmed 401134.crdownload",
+    "content/Project Documentations/PKS/pks_frontend.md",
+    "content/CTF Write-Ups/SKYDAYS/recon.md",
     "content/CTF Write-Ups/SKYDAYS/reverse_amd.md",
     "content/CTF Write-Ups/SKYDAYS/my_password_vault.md",
     "content/CTF Write-Ups/SKYDAYS/file_vault.md",
@@ -184,8 +191,6 @@
     "quartz/static/file_vault/ls_r_storage.webp",
     "quartz/static/file_vault/ls_output.webp",
     "quartz/static/file_vault/script_2_1.webp",
-    "quartz/static/file_vault/ffuf.webp",
-    "content/CTF Write-Ups/SKYDAYS/recon.md",
     "quartz/static/file_vault",
     "quartz/static/Yeni klasör",
     "content/CTF Write-Ups/SKYDAYS/recon - Kopya.md",
@@ -209,12 +214,7 @@
     "content/CTF Write-Ups/THM/evil_gpt_v2.md",
     "content/CTF Write-Ups/THM/evil_gpt.md",
     "content/CTF Write-Ups/THM/epoch.md",
-    "content/CTF Write-Ups/THM/boiler_ctf.md",
-    "content/CTF Write-Ups/HTB/pentest_notes.md",
-    "content/CTF Write-Ups/HTB/the_puppet_master.md",
-    "content/CTF Write-Ups/HTB/the_suspicious_domain.md",
     "quartz/static/the_suspicious_domain",
-    "node_modules/speech-rule-engine/node_modules/commander/typings/index.d.ts",
-    "node_modules/speech-rule-engine/node_modules/commander/typings"
+    "node_modules/speech-rule-engine/node_modules/commander/typings/index.d.ts"
   ]
 }
